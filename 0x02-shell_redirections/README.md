@@ -1,1 +1,1 @@
-Task0. Hello World
+Hello World
